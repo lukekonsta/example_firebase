@@ -117,7 +117,7 @@ class _HomePageState extends State<HomePage> {
       resizeToAvoidBottomInset: false,
       backgroundColor: Colors.grey[100],
       appBar: AppBar(
-        title: Text('App'),
+        title: Text('App D'),
       ),
     );
   }
